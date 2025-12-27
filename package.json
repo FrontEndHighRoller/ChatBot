@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://github.com/FrontEndHighRoller/ChatBot",
+  "homepage": "https://FrontEndHighRoller.github.io/ChatBot/",
   "scripts": {
     "dev": "vite",
     "preview": "vite preview",
