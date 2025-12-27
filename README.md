@@ -1,9 +1,8 @@
 # 🤖 Chatbot Application – React Project
 
 > A React-based chatbot application built while following the **“React Tutorial Full Course – Beginner to Pro (React 19, 2025)”** by SuperSimpleDev, focusing on React fundamentals, state management, local storage, and user experience features.
-
-![img](screen-1.png)
-
+![img](./public/screen-1.png)
+>
 ---
 
 ## 👀 Why This Project Stands Out
