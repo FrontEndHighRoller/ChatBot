@@ -60,8 +60,10 @@ Support multiple chat sessions
 Enhance UI styling and accessibility
 
 🙋‍♂️ Author
-Your Name
+Dennis Rumanek
+
 GitHub: https://github.com/frontendhighroller
+
 LinkedIn: https://www.linkedin.com/in/dennis-rumanek
 
 ⭐ If you find this project interesting, feel free to star the repository!
