@@ -9,10 +9,10 @@
 1. Goodbye
 2. Roll a dice
 3. Hello
-4. thank
-5. what is the date today
-6. flip a coin
-7. how are you
+4. Thanks
+5. What is the date today
+6. Flip a coin
+7. How are you
 
 ## 👀 Why This Project Stands Out
 
