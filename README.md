@@ -5,6 +5,11 @@
 >
 ---
 
+# Commands you can use
+1. Goodbye
+2. Roll a dice
+3. Hello
+
 ## 👀 Why This Project Stands Out
 
 - Built using **React** following a comprehensive, real-world tutorial  
