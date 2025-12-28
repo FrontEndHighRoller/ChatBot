@@ -13,7 +13,6 @@
 5. what is the date today
 6. flip a coin
 7. how are you
-8. goodbye
 
 ## 👀 Why This Project Stands Out
 
