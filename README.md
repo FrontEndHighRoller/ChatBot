@@ -5,10 +5,15 @@
 >
 ---
 
-# Commands you can use
+# Commands you can use in the chat
 1. Goodbye
 2. Roll a dice
 3. Hello
+4. thank
+5. what is the date today
+6. flip a coin
+7. how are you
+8. goodbye
 
 ## 👀 Why This Project Stands Out
 
